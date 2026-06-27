@@ -1,0 +1,7 @@
+# Binaryes
+hello-go
+*.exe
+*.test
+
+# Fichiers de debug
+__debug_bin
